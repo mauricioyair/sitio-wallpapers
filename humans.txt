@@ -1,0 +1,12 @@
+/* TEAM */
+
+Cargo: Maquetacion.
+Correo: yairchavez555@gmail.com
+Pais: México
+Estado: México City 
+Discord: MauricioYair#8971
+
+/* SITE */
+Ultima Modificacion: 2020/08/09 
+Tecnologias Usadas: HTML5, CSS3, Boxicons, Adobe XD, Artstation(Imagenes)
+Software: Pagina web para descargar fondos de pantalla.
